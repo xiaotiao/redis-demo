@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Mar 23 14:04:02 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=spring-redis_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.wondersoft.spring_redis.App
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
